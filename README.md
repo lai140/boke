@@ -1,2 +1,2 @@
 # boke
-The basic code of the algorithm is shown in the branch section, and the target gene is shown in the data section.
+The basic code of the algorithm was shown in the branch section, and the target genes were shown in the data section.
